@@ -1,0 +1,409 @@
+{
+  "janvajevu" : [
+
+    {
+        "list_name": "Janva jevu",
+        "list_image": "first_img",
+        "categoryList" : [
+          {
+            "categoryName" : "material 1",
+            "category_image" : "material_image_1",
+            "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+          },
+          {
+            "categoryName" : "material 1",
+            "category_image" : "material_image_1",
+            "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+          },
+          {
+            "categoryName" : "material 1",
+            "category_image" : "material_image_1",
+            "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+          },
+          {
+            "categoryName" : "material 1",
+            "category_image" : "material_image_1",
+            "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+          },
+          {
+            "categoryName" : "material 1",
+            "category_image" : "material_image_1",
+            "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+          }
+        ]
+    },
+    {
+      "list_name": "samanya gyan",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "aadhunik technology",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "grabhavastha_tip",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "aayurved_upchar",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "kyare su karvu",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "tahevar nu mahatva",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "Tuku ane touch",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "Ramayn na prasango",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "mahabhart na prasango",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "bhagvadgita",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "kirtan",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    },
+    {
+      "list_name": "aarti",
+      "list_image": "first_img",
+      "categoryList" : [
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        },
+        {
+          "categoryName" : "material 1",
+          "category_image" : "material_image_1",
+          "category_detail" : "category Detail category Detail category Detail category Detail category Detailcategory Detail category Detail category Detail category Detail category Detail category Detail category Detail category Detail "
+        }
+      ]
+    }
+
+  ]
+}
